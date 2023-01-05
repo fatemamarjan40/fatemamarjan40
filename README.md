@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatemamarjan40" alt="fatemamarjan40" /></a> </p>
 
-- 🌱 I’m currently learning **Data Analysis**
+
 
 
 - 📫 How to reach me **fatemamarjan40@gmail.com**

@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **Data Analysis**
 
-- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **fatemamarjan40@gmail.com**
 
